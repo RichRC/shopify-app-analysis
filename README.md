@@ -188,13 +188,8 @@ This analysis was completed as part of a business intelligence coursework, earni
 
 ## Contact
 
-**Richard [Your Last Name]**  
-*Data Analyst*
-
-- LinkedIn: [your-linkedin-url]
-- Email: your.email@example.com
-- Portfolio: [your-portfolio-url]
-
+Richard Rivera Cartagena
+[LinkedIn](https://www.linkedin.com/in/richard-rivera-cartagena/) · [GitHub](https://github.com/RichRC)
 ---
 
 *Note: This project uses synthetic data scraped from publicly available sources for educational purposes.*
